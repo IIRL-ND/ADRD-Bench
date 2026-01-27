@@ -48,7 +48,7 @@ ADRD-caring-LLM-benchmark/
 │   ├── ADRD_Unified.json/
 ├── README.md
 └── LICENSE
-```text
+```
 
 ## Data Usage & Ethics
 
