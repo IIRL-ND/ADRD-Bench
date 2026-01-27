@@ -1,0 +1,352 @@
+{
+  "data": [
+    {
+      "ID": 1,
+      "Question": "Which of the following diseases does not cause neurodegenerative dementia?",
+      "Options": {
+        "A": "Alzheimer’s",
+        "B": "Parkinson’s",
+        "C": "Hypothyroidism",
+        "D": "Frontotemporal",
+        "E": "Lewy Body"
+      },
+      "Answer": "C"
+    },
+    {
+      "ID": 2,
+      "Question": "Which of the following drugs are approved by the Federal Drug Administration (FDA) for the symptomatic treatment of Alzheimer's disease?",
+      "Options": {
+        "A": "Donepezil",
+        "B": "Rivastigmine",
+        "C": "Memantine",
+        "D": "Galantamine",
+        "E": "All of the above"
+      },
+      "Answer": "E"
+    },
+    {
+      "ID": 3,
+      "Question": "Aggression related to dementia is mainly caused by which of the following factors?",
+      "Options": {
+        "A": "Inability to verbalize pain",
+        "B": "A response to verbal persuasion or argumentation",
+        "C": "Understimulation (boredom, wanting attention, etc.)",
+        "D": "Overstimulation",
+        "E": "All of the above"
+      },
+      "Answer": "E"
+    },
+    {
+      "ID": 4,
+      "Question": "What are the causes of delirium?",
+      "Options": {
+        "A": "Dehydration",
+        "B": "Sleep deprivation",
+        "C": "Medication",
+        "D": "Infection",
+        "E": "All of the above"
+      },
+      "Answer": "E"
+    },
+    {
+      "ID": 5,
+      "Question": "What are the consequences of high informal caregiver burden?",
+      "Options": {
+        "A": "Keeping the patient at home longer",
+        "B": "Lower rates of behavioral and psychological symptoms among patients living with dementia",
+        "C": "Acute care utilization for both the patient and informal caregiver",
+        "D": "Less likelihood of patient receiving in appropriate medications",
+        "E": "Improved physical health of informal caregiver"
+      },
+      "Answer": "C"
+    },
+    {
+      "ID": 6,
+      "Question": "A family caregiver supporting a loved one with dementia is experiencing significant emotional exhaustion and persistent guilt when considering taking a break. Although the caregiver’s own physical health is beginning to suffer, they believe they must be present at all times to provide proper care. Which action would best support the caregiver’s long-term ability to provide care while protecting their own well-being?",
+      "Options": {
+        "A": "Prioritize the loved one’s needs by putting personal health concerns on the 'back burner' until the caregiving situation is more stable.",
+        "B": "Manage all caregiving and household tasks independently to avoid placing an emotional or physical burden on friends or family members.",
+        "C": "Strive to be everything for everyone involved, even if it means sacrificing personal rest and consistent sleep to ensure the loved one is never alone.",
+        "D": "Scheduling regular, uninterrupted time away from caregiving, communicating emotional struggles with trusted others, and seeking help when personal limits are reached.",
+        "E": "Focus exclusively on day-to-day tasks and avoid making future plans to minimize the anxiety associated with the loved one’s eventual decline."
+      },
+      "Answer": "D"
+    },
+    {
+      "ID": 7,
+      "Question": "A caregiver who has been supporting a relative with dementia for a long time notices they are sleeping poorly, feeling sad most days, and no longer enjoying activities that used to matter. They believe these feelings are simply the \"cost of love\" and that they should be strong enough to handle it alone. How should these changes be most accurately addressed to ensure the best outcome for both the caregiver and the patient?",
+      "Options": {
+        "A": "Accept these changes as a natural sacrifice of caregiving, as most people find that their emotional distress eventually stabilizes once they fully commit to their role.",
+        "B": "Adopt a more stoic attitude by focusing strictly on the physical tasks of caregiving, as dwelling on one's own emotions often leads to unnecessary self-pity and decreased efficiency.",
+        "C": "Recognize these symptoms as signs that the caregiver's own health is at risk, which is a condition that must be addressed first in order to sustain the safety and quality of care for the loved one.",
+        "D": "Focus on improving the patient's environment and mood, assuming that if the patient is happier and more stable, the caregiver's sadness and exhaustion will naturally disappear.",
+        "E": "Set aside personal interests temporarily to ensure the patient feels constant support, believing that personal hobbies can be resumed once the caregiving journey reaches a more manageable stage."
+      },
+      "Answer": "C"
+    },
+    {
+      "ID": 8,
+      "Question": "A caregiver notices that during a conversation, a loved one with dementia begins to frown, turns their head away, starts pacing, and speaks rapidly. The caregiver’s goal is to prevent a 'catastrophic reaction' and ensure long-term cooperation. Which response is most appropriate in this specific moment?",
+      "Options": {
+        "A": "Maintain the interaction by using gentle physical touch and increasing verbal reassurance to help the loved one stay grounded in the conversation.",
+        "B": "Utilize 'active listening' by guessing the loved one's needs and rephrasing the message into even simpler terms to resolve the perceived confusion.",
+        "C": "Shift the loved one's attention by initiating a high-engagement activity, such as a favorite game or puzzle, to break the cycle of agitation.",
+        "D": "Pause or stop the interaction entirely, give the loved one physical space to calm down, and attempt to re-engage only after a few minutes or when the distress has subsided.",
+        "E": "Assertively redirect the loved one to sit down and use a firm, calm voice to explain why the current conversation is important for their safety."
+      },
+      "Answer": "D"
+    },
+    {
+      "ID": 9,
+      "Question": "A caregiver wants to involve a loved one with dementia in daily activities to promote engagement. However, they notice the loved one often becomes irritable or withdrawn during these attempts. To minimize the risk of agitation and support the person’s well-being, which strategy should be prioritized?",
+      "Options": {
+        "A": "Structure the day with a continuous schedule of diverse tasks to ensure the person remains occupied and to prevent the restlessness associated with inactivity.",
+        "B": "Prioritize activities that are familiar and were enjoyed in the past, focusing on simple participation while avoiding any task that requires learning new steps or following complex explanations.",
+        "C": "Introduce novel and cognitively stimulating exercises gradually to challenge the person’s brain and slow the progression of memory loss through neuroplasticity.",
+        "D": "Encourage regular social engagement with large groups of visitors to provide maximum sensory stimulation.",
+        "E": "Focus on involving the person in necessary household chores to maintain a sense of utility."
+      },
+      "Answer": "B"
+    },
+    {
+      "ID": 10,
+      "Question": "You want to help your father, who is living with dementia, improve his sleep and mood through walking. However, he often stops halfway or becomes unable to understand instructions such as “lift your legs” or “walk faster” due to cognitive impairment, leaving both of you feeling frustrated. To ensure consistency and reduce stress for both of you, what is the most effective adjustment strategy?",
+      "Options": {
+        "A": "Continue to verbally correct his gait, because proper posture is key to preventing falls, and safety should not be sacrificed for convenience.",
+        "B": "Give up walking and switch to passive exercises, because once a patient shows difficulty understanding instructions, the frustration from active exercise usually outweighs the benefits.",
+        "C": "Integrate activity into “daily routines” or “social interactions” that do not require complex instructions, focusing on 'enjoying the process' rather than 'meeting exercise targets'.",
+        "D": "Provide material rewards when he performs well, using behavioral reinforcement theory to make him follow instructions.",
+        "E": "Shorten the duration but increase the intensity, completing the daily exercise quickly before his attention runs out."
+      },
+      "Answer": "C"
+    },
+    {
+      "ID": 11,
+      "Question": "While helping your mother take a bath, she suddenly becomes very angry, tightly clutches her clothes, refuses to undress, and tries to push you away. Although she does need to bathe, every attempt you make only escalates her agitation. At this moment, which immediate response is the best?",
+      "Options": {
+        "A": "Continue trying but speed up, aiming to “get through the struggle” within two minutes, because unresolved hygiene issues can lead to infection.",
+        "B": "Immediately stop what you are doing, step back or leave the room, and give both of you a few minutes to “cool down,” then try again later or use a different approach.",
+        "C": "Start explaining why she needs a bath, attempting to persuade her through logic.",
+        "D": "Call another family member to come in and help restrain her, ensuring safety and quickly completing the task.",
+        "E": "Loudly scold her aggressive behavior, asserting caregiver authority and making it clear that hitting is not acceptable."
+      },
+      "Answer": "B"
+    },
+    {
+      "ID": 12,
+      "Question": "A caregiver is assisting a patient living with dementia who is resisting a bath. What is the primary recommended action if the resistance becomes significant?",
+      "Options": {
+        "A": "Call another family member to help physically guide the patient into the shower.",
+        "B": "Wait a moment and try to calmly explain to the patient the importance of bathing for skin health to gain their cooperation.",
+        "C": "Offer a favorite snack as a reward for completing the bath.",
+        "D": "Explain the health risks of poor hygiene to persuade the patient.",
+        "E": "Skip the bath for today and try again tomorrow if possible."
+      },
+      "Answer": "E"
+    },
+    {
+      "ID": 13,
+      "Question": "When caring for a person living with dementia, to help minimize nighttime falls and episodes of incontinence, what is the recommended “cut-off” time for fluid intake in the evening?",
+      "Options": {
+        "A": "Only limit fluids if the patient has had more than 8 glasses during the day.",
+        "B": "Continue providing fluids until bedtime as long as the patient does not show signs of 'Sundown Syndrome' agitation.",
+        "C": "Avoid fluids after 7:00 PM.",
+        "D": "Provide a cup of warm milk right before bedtime to help the patient sleep, regardless of evening fluid restrictions.",
+        "E": "One hour before the patient's scheduled bedtime."
+      },
+      "Answer": "C"
+    },
+    {
+      "ID": 14,
+      "Question": "When caring for a person living with dementia who is struggling with eating, what does the 'Rule of One' mean when simplifying the environment?",
+      "Options": {
+        "A": "Only one person should be present in the room during feeding.",
+        "B": "Use only one color for all plates and napkins to avoid distraction.",
+        "C": "One food at a time in a bowl, with only one utensil.",
+        "D": "Provide only one type of protein per meal.",
+        "E": "The patient should take only one bite every sixty seconds."
+      },
+      "Answer": "C"
+    },
+    {
+      "ID": 15,
+      "Question": "When caring for a person living with dementia, which gait-related symptom requires an immediate call to the doctor?",
+      "Options": {
+        "A": "Refusing to walk without holding the caregiver's hand.",
+        "B": "An increased tendency to pace around the house at night.",
+        "C": "Stopping frequently to look at patterns on the floor.",
+        "D": "A shuffling walk or new physical stiffness.",
+        "E": "Walking slower than usual during morning exercise."
+      },
+      "Answer": "D"
+    },
+    {
+      "ID": 16,
+      "Question": "When caring for a person living with dementia, why is the use of electric toothbrushes explicitly discouraged as part of oral hygiene care?",
+      "Options": {
+        "A": "The noise and vibration can be frightening or confusing.",
+        "B": "The batteries or cords present an unnecessary safety hazard.",
+        "C": "The vibration may cause micro-fractures in aging dental enamel.",
+        "D": "They do not clean the gum line as effectively as manual brushes.",
+        "E": "They are too difficult for a caregiver to maneuver in another person's mouth."
+      },
+      "Answer": "A"
+    },
+    {
+      "ID": 17,
+      "Question": "When caring for a person living with dementia who repeatedly undresses at inappropriate times, which clothing modification is recommended to help manage this behavior?",
+      "Options": {
+        "A": "Belts with complex buckles.",
+        "B": "Multiple layers of tight-fitting clothing.",
+        "C": "Clothing with oversized buttons.",
+        "D": "Jumpsuits with front-facing zippers.",
+        "E": "Clothing that fastens in the back."
+      },
+      "Answer": "E"
+    },
+    {
+      "ID": 18,
+      "Question": "When caring for a person living with dementia, who may also experience episodes of delirium, what is the mandatory lighting requirement for the patient’s room during the day?",
+      "Options": {
+        "A": "Keep lights dim.",
+        "B": "Use soft, blue-toned LED lighting.",
+        "C": "Use natural sunlight and overhead lights should be off.",
+        "D": "Keep lights ON during the day to stay oriented and awake.",
+        "E": "Alternate between light and dark every two hours."
+      },
+      "Answer": "D"
+    },
+    {
+      "ID": 19,
+      "Question": "When caring for a person living with dementia, caregiver self-care is emphasized with a specific, quantitative break requirement. What is this requirement?",
+      "Options": {
+        "A": "At least 4 consecutive hours away twice a week.",
+        "B": "Spend at least 8 consecutive hours away from caregiving per week.",
+        "C": "At least 1 hour of quiet time every day.",
+        "D": "Two hours of exercise per day away from the loved one.",
+        "E": "A full 24-hour period of rest once every month."
+      },
+      "Answer": "B"
+    },
+    {
+      "ID": 20,
+      "Question": "When caring for a person living with dementia who repeatedly asks the same question (e.g., 'Where are we going?'), what specific external memory aid is recommended to reduce anxiety and provide a lasting reference?",
+      "Options": {
+        "A": "Place a large digital clock in a prominent area with a countdown to the next event.",
+        "B": "Use 'reality orientation' to guide the patient to recall the last time they received the answer.",
+        "C": "Give the patient a written note with the answer on it.",
+        "D": "Repeat the answer using simplified synonyms to ensure the patient fully understands.",
+        "E": "Implement a simplified one-button voice recorder that plays back the caregiver's pre-recorded response."
+      },
+      "Answer": "C"
+    },
+    {
+      "ID": 21,
+      "Question": "When assisting a person living with dementia during mealtimes, which of the following is specifically identified as a safety hazard and should NOT be used?",
+      "Options": {
+        "A": "Metal spoons.",
+        "B": "Plastic utensils.",
+        "C": "Solid-colored plates",
+        "D": "Finger foods",
+        "E": "Non-slip placemats"
+      },
+      "Answer": "B"
+    },
+    {
+      "ID": 22,
+      "Question": "When caring for a person living with dementia, if you give a simple instruction (e.g., 'Please sit down') and the patient does not respond, what is the most appropriate next action?",
+      "Options": {
+        "A": "Immediately repeat the instruction in a louder, firmer voice to ensure the patient heard you.",
+        "B": "Wait a moment for processing, then repeat exactly what you said using the same words.",
+        "C": "Use a 'baby talk' tone and pet names like 'honey' or 'sweetie' to encourage the patient to cooperate.",
+        "D": "Follow the instruction immediately with an explanation of why.",
+        "E": "Stop verbal communication and use physical guidance, such as pushing on the shoulders, to prompt the action."
+      },
+      "Answer": "B"
+    },
+    {
+      "ID": 23,
+      "Question": "When caring for a person living with dementia who is returning home after a hospital stay, what is the recommended duration for a gentle back rub to help promote relaxation before bedtime?",
+      "Options": {
+        "A": "A very brief back rub focused on reassurance.",
+        "B": "10 to 15 minutes.",
+        "C": "1 hour.",
+        "D": "Until the patient falls asleep.",
+        "E": "No specific time."
+      },
+      "Answer": "B"
+    },
+    {
+      "ID": 24,
+      "Question": "When caring for a person living with dementia, caregivers are encouraged to use the environment as a 'prompt' to support daily tasks. What is the recommended location for dressing and undressing to help cue this activity?",
+      "Options": {
+        "A": "Both should always occur in the bathroom for privacy.",
+        "B": "Place a large mirror in the bedroom and have the patient dress and undress in front of it to utilize visual feedback.",
+        "C": "Get dressed in one location and undressed in another location.",
+        "D": "Change the dressing room every day to provide sensory stimulation and prevent boredom.",
+        "E": "Dress wherever there is space in the house as long as the patient does not resist, without needing a fixed spot."
+      },
+      "Answer": "C"
+    },
+    {
+      "ID": 25,
+      "Question": "When caring for a loved one living with dementia, if you lose eye contact during a conversation, what is the most appropriate action to take?",
+      "Options": {
+        "A": "Move slightly closer and keep speaking, trying to regain their interest through increased body language.",
+        "B": "Follow the patient's gaze and reposition yourself to ensure you remain in the center of their visual field.",
+        "C": "Recognize that the person may need space, pause the conversation, and find a better moment to restart in a few minutes.",
+        "D": "Call the person’s name in a firm tone and remind them of the important topic you were discussing.",
+        "E": "Check for environmental noise and increase your volume to overcome background distractions."
+      },
+      "Answer": "C"
+    },
+    {
+      "ID": 26,
+      "Question": "When caring for a person living with dementia or memory loss, how should clothing that is out of season or not currently being used be handled when organizing a closet to reduce confusion?",
+      "Options": {
+        "A": "Move it to the back of the current closet.",
+        "B": "Place it in clear, labeled plastic bins within the closet.",
+        "C": "Store it somewhere else entirely.",
+        "D": "Turn the hangers backward to distinguish them.",
+        "E": "Cover them with dark garment bags."
+      },
+      "Answer": "C"
+    },
+    {
+      "ID": 27,
+      "Question": "When caring for a person living with dementia, certain activities are discouraged because they may be perceived as demeaning or inappropriate. Which type of activity should be avoided for this reason?",
+      "Options": {
+        "A": "Complex household chores.",
+        "B": "Social outings with more than four people.",
+        "C": "Childish activities.",
+        "D": "Listening to music from the patient's youth.",
+        "E": "Activities that require less than 5 minutes of focus."
+      },
+      "Answer": "C"
+    },
+    {
+      "ID": 28,
+      "Question": "When caring for a person living with dementia who has recently returned home from the hospital, what level of nighttime sleep should the caregiver prioritize to help manage and prevent delirium?",
+      "Options": {
+        "A": "Ensuring the person sleeps as long as possible.",
+        "B": "Encouraging a full night’s sleep comparable to that of a healthy adult.",
+        "C": "4 to 6 hours of uninterrupted sleep.",
+        "D": "Allowing frequent awakenings at night as long as daytime naps are limited.",
+        "E": "Focusing primarily on daytime orientation rather than nighttime sleep patterns."
+      },
+      "Answer": "C"
+    },
+    {
+      "ID": 29,
+      "Question": "When caring for a person living with dementia, if the person begins speaking very quickly, what does this typically indicate, and what is the appropriate response from the caregiver?",
+      "Options": {
+        "A": "It indicates the person is attempting to communicate socially; the caregiver should continue interacting using a calm, reassuring tone.",
+        "B": "It indicates difficulty finding the correct word; the caregiver should cue the person’s associations to help them express themselves.",
+        "C": "It indicates the person may be losing self-control or feeling anxious; the caregiver should stop, give space, and wait for the person to calm down before approaching again.",
+        "D": "It indicates increased restlessness possibly related to a physical need; the caregiver should redirect the person to another activity.",
+        "E": "It indicates the person is responsive to communication; the caregiver should persist to avoid disengagement."
+      },
+      "Answer": "C"
+    }
+  ]
+}
