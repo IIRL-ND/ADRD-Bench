@@ -1,8 +1,6 @@
-# ADRD-Care Benchmark
+# ADRD-Bench Benchmark
 
-**ADRD-Care** is the **first benchmark specifically designed for Alzheimer’s Disease and Related Dementias (ADRD)** to rigorously evaluate large language models (LLMs) in both **clinical knowledge** and **daily caregiving contexts**.
-
-This benchmark addresses a critical gap in existing medical and healthcare benchmarks, which provide minimal coverage of ADRD despite its significant clinical and societal impact.
+**ADRD-Bench** is a **benchmark specifically designed for Alzheimer’s Disease and Related Dementias (ADRD)** to rigorously evaluate large language models (LLMs) in both **clinical knowledge** and **daily caregiving contexts**.
 
 ---
 
@@ -19,7 +17,7 @@ A curated and unified question set synthesized from **seven established medical 
   - the **source dataset name**
   - the **original index** of each question within its source benchmark
 
-This design ensures **reproducibility and transparency** while respecting all original data usage policies.
+This design is for **reproducibility and transparency**, while respecting all original data usage policies.
 
 
 ### ADRD Daily Caring QA
@@ -54,7 +52,7 @@ ADRD-caring-LLM-benchmark/
 
 - ADRD Daily Caring QA is released **for research and evaluation purposes only**
 - ADRD Unified QA complies with all original dataset licenses by providing **indices only**
-- This benchmark is **not intended for clinical deployment** or direct medical decision-making
+- This benchmark is **not intended for direct medical decision-making**
 
 
 ## Contact
@@ -62,8 +60,3 @@ ADRD-caring-LLM-benchmark/
 **Project Team**: IIRL-ND  
 
 For questions, collaborations, or access inquiries, please open an issue or contact the authors.
-
-
-## Acknowledgements
-
-We thank clinicians and caregivers who contributed domain expertise to the design of ADRD Daily Caring QA.
