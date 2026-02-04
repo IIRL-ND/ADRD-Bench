@@ -55,7 +55,7 @@
         "A": "Keeping the patient at home longer",
         "B": "Lower rates of behavioral and psychological symptoms among patients living with dementia",
         "C": "Acute care utilization for both the patient and informal caregiver",
-        "D": "Less likelihood of patient receiving in appropriate medications",
+        "D": "Less likelihood of patient receiving inappropriate medications",
         "E": "Improved physical health of informal caregiver"
       },
       "Answer": "C"
@@ -210,7 +210,7 @@
       "Options": {
         "A": "Keep lights dim.",
         "B": "Use soft, blue-toned LED lighting.",
-        "C": "Use natural sunlight and overhead lights should be off.",
+        "C": "Use natural sunlight, and keep overhead lights off.",
         "D": "Keep lights ON during the day to stay oriented and awake.",
         "E": "Alternate between light and dark every two hours."
       },
