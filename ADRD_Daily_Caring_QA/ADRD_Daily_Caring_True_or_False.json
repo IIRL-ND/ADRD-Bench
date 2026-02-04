@@ -7,7 +7,7 @@
     },
     {
       "ID": 2,
-      "Question": "Among people aged 85 and older, the risk of dementia is 20–40%. This evolving statement that might change in the future.",
+      "Question": "Among people aged 85 and older, the risk of dementia is 20–40%. This statement is evolving and may change in the future.",
       "Answer": "Yes"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "ID": 5,
-      "Question": "Mild Alzheimer's disease is characterized by having Mild Cognitive Impairment with negligent negative effects on daily function or having dementia with some required assistance in instrumental activities of daily living.",
+      "Question": "Mild Alzheimer's disease is characterized by having Mild Cognitive Impairment with negligible negative effects on daily function or having dementia with some required assistance in instrumental activities of daily living.",
       "Answer": "Yes"
     },
     {
       "ID": 6,
-      "Question": "The Alzheimer's patience is unable to perform basic activities of daily living.",
+      "Question": "The Alzheimer's patient is unable to perform basic activities of daily living.",
       "Answer": "No"
     },
     {
@@ -37,22 +37,22 @@
     },
     {
       "ID": 8,
-      "Question": "Delirium is severe form of dementia.",
+      "Question": "Delirium is a severe form of dementia.",
       "Answer": "No"
     },
     {
       "ID": 9,
-      "Question": "Delirium is modifiable risk factor for dementia and dementia is a risk factor for delirium.",
+      "Question": "Delirium is a modifiable risk factor for dementia and dementia is a risk factor for delirium.",
       "Answer": "Yes"
     },
     {
       "ID": 10,
-      "Question": "When family or informal caregiver of patient with dementia is burned out, the patient living with dementia is at high risk of moving out of their own home into institutional care.",
+      "Question": "When family or informal caregiver of a patient with dementia is burned out, the patient living with dementia is at high risk of moving out of their own home into institutional care.",
       "Answer": "Yes"
     },
     {
       "ID": 11,
-      "Question": "Most caregivers of people living with dementia are a family member who has taken the responsibility of caring for a medical condition that they may not know much about. This increases the stress levels of the caregiver which in turn decreases the quality of life of both the patient and the caregivers leading to inappropriate acute healthcare utilization and institutionalization.",
+      "Question": "Most caregivers of people living with dementia are family members who have taken the responsibility of caring for a medical condition that they may not know much about. This increases the stress levels of the caregiver which in turn decreases the quality of life of both the patient and the caregivers leading to inappropriate acute healthcare utilization and institutionalization.",
       "Answer": "Yes"
     },
     {
@@ -81,12 +81,12 @@
     },
     {
       "ID": 17,
-      "Question": "The treatment for Alzheimer’s Disease and Related Dementias (ADRD) include pharmacological and nonpharmacological interventions targeting both the patient and their informal caregiver or care partner.",
+      "Question": "The treatment for Alzheimer’s Disease and Related Dementias (ADRD) includes pharmacological and nonpharmacological interventions targeting both the patient and their informal caregiver or care partner.",
       "Answer": "Yes"
     },
     {
       "ID": 18,
-      "Question": "Delirium is very common among people living with dementia affecting up to 60% of patients age 65 and older recovering from major orthopedic surgery and 80% of intensive care unit (ICU) patients.",
+      "Question": "Delirium is very common among people living with dementia affecting up to 60% of patients aged 65 and older recovering from major orthopedic surgery and 80% of intensive care unit (ICU) patients.",
       "Answer": "Yes"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
       "ID": 22,
-      "Question": "The symptoms of delirium do not contain difficulty sleeping.",
+      "Question": "The symptoms of delirium do not include difficulty sleeping.",
       "Answer": "No"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "ID": 24,
-      "Question": "Mobility depends on muscle, bone, balance, mentation, environment.",
+      "Question": "Mobility depends on muscles, bones, balance, mentation, and the environment.",
       "Answer": "Yes"
     },
     {
@@ -126,7 +126,7 @@
     },
     {
       "ID": 26,
-      "Question": "Informal Caregivers are at an increased risk for depression and stress.",
+      "Question": "Informal caregivers are at an increased risk for depression and stress.",
       "Answer": "Yes"
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "ID": 33,
-      "Question": "When people with Dementia begin to have difficulty taking care of themselves, informal caregivers should take over right away.",
+      "Question": "When people with dementia begin to have difficulty taking care of themselves, informal caregivers should take over right away.",
       "Answer": "No"
     },
     {
@@ -171,7 +171,7 @@
     },
     {
       "ID": 35,
-      "Question": "In rare cases, people have recovered from Alzheimer’s disease related dementia.",
+      "Question": "In rare cases, people have recovered from Alzheimer’s disease and related dementias.",
       "Answer": "No"
     },
     {
@@ -198,7 +198,8 @@
       "ID": 40,
       "Question": "People in their 30s can have Alzheimer’s disease pathologies without having cognitive symptoms.",
       "Answer": "Yes"
-    },{
+    },
+    {
       "ID": 41,
       "Question": "A person with dementia becomes increasingly likely to fall down as the disease gets worse.",
       "Answer": "Yes"
@@ -240,7 +241,7 @@
     },
     {
       "ID": 49,
-      "Question": "Trouble handling money or paying bills is a common early symptom of Mild dementia due to Alzheimer’s disease.",
+      "Question": "Trouble handling money or paying bills is a common early symptom of mild dementia due to Alzheimer’s disease.",
       "Answer": "Yes"
     },
     {
@@ -260,7 +261,7 @@
     },
     {
       "ID": 53,
-      "Question": "Having high blood pressure may increase a person’s risk of developing Alzheimer’s disease and other related dementia.",
+      "Question": "Having high blood pressure may increase a person’s risk of developing Alzheimer’s disease and other related dementias.",
       "Answer": "Yes"
     },
     {
@@ -305,7 +306,7 @@
     },
     {
       "ID": 62,
-      "Question": "Because the resident with dementia is no longer able to make adaptations, the caregiver must always be responsible to do so.",
+      "Question": "Because the resident with dementia is no longer able to make adaptations, the caregiver must always be responsible for doing so.",
       "Answer": "No"
     },
     {
@@ -330,7 +331,7 @@
     },
     {
       "ID": 67,
-      "Question": "There is no biomarker test to identify MCI or Dementia due to Alzheimer’s disease.",
+      "Question": "There is no biomarker test to identify MCI or dementia due to Alzheimer’s disease.",
       "Answer": "No"
     },
     {
@@ -425,7 +426,7 @@
     },
     {
       "ID": 86,
-      "Question": "Dementia care planning include development and implementation of caregiver stress prevention bundle.",
+      "Question": "Dementia care planning includes development and implementation of a caregiver stress prevention bundle.",
       "Answer": "Yes"
     },
     {
@@ -435,7 +436,7 @@
     },
     {
       "ID": 88,
-      "Question": "To accomplish goals, it may be necessary to compromise the rights of the person living with dementia such as driving privilege and financial decision making, for his/her benefit.",
+      "Question": "To accomplish goals, it may be necessary to compromise the rights of the person living with dementia such as driving privileges and financial decision making, for his/her benefit.",
       "Answer": "Yes"
     },
     {
@@ -520,7 +521,7 @@
     },
     {
       "ID": 105,
-      "Question": "Normal, everyday sights and sounds may cause a person living with dementia to develop illusion and hallucination.",
+      "Question": "Normal, everyday sights and sounds may cause a person living with dementia to develop illusions and hallucinations.",
       "Answer": "Yes"
     },
     {
@@ -540,7 +541,7 @@
     },
     {
       "ID": 109,
-      "Question": "It is never advisable to let a personal living with dementia wander.",
+      "Question": "It is never advisable to let a person living with dementia wander.",
       "Answer": "No"
     },
     {
@@ -550,12 +551,12 @@
     },
     {
       "ID": 111,
-      "Question": "A person living with dementia can usually be taught not to exhibit appropriate behavioral and psychological symptoms.",
+      "Question": "A person living with dementia can usually be taught not to exhibit inappropriate behavioral and psychological symptoms.",
       "Answer": "No"
     },
     {
       "ID": 112,
-      "Question": "There is nothing that can be done to prevent or stop agitation in person living with dementia.",
+      "Question": "There is nothing that can be done to prevent or stop agitation in a person living with dementia.",
       "Answer": "No"
     },
     {
@@ -565,7 +566,7 @@
     },
     {
       "ID": 114,
-      "Question": "People living with dementia forget 90% of new information after 1-5 minutes?",
+      "Question": "People living with dementia forget 90% of new information after 1-5 minutes.",
       "Answer": "Yes"
     },
     {
@@ -575,22 +576,22 @@
     },
     {
       "ID": 116,
-      "Question": "Logic and verbal persuasion is effective and cheap way to change human behavior.",
+      "Question": "Logic and verbal persuasion are effective and cheap ways to change human behavior.",
       "Answer": "No"
     },
     {
       "ID": 117,
-      "Question": "Alzheimer disease is the most common pathologies for people living with Mild Cognitive Impairment or Dementia.",
+      "Question": "Alzheimer disease is the most common pathology for people living with Mild Cognitive Impairment or Dementia.",
       "Answer": "Yes"
     },
     {
       "ID": 118,
-      "Question": "The Caregiver stress prevention bundle includes weekly 8 consecutive hours of respite care where the caregiver is not proving care for their loved one living with dementia and are focusing on their own emotional health.",
+      "Question": "The Caregiver stress prevention bundle includes weekly 8 consecutive hours of respite care where the caregiver is not providing care for their loved one living with dementia and are focusing on their own emotional health.",
       "Answer": "Yes"
     },
     {
       "ID": 119,
-      "Question": "The Caregiver stress prevention bundle includes attending monthly support group with or without their loved one living with dementia.",
+      "Question": "The Caregiver stress prevention bundle includes attending a monthly support group with or without their loved one living with dementia.",
       "Answer": "Yes"
     },
     {
