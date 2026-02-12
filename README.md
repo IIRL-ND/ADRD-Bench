@@ -39,9 +39,9 @@ This component helps mitigate the lack of **practical caregiving context** in ex
 
 ```text
 ADRD-caring-LLM-benchmark/
-├── ADRD_Daily_Caring_QA/
-│   ├── ADRD_Daily_Caring_Multiple_Choice.json
-│   └── ADRD_Daily_Caring_True_or_False.json
+├── ADRD_Caregiving_QA/
+│   ├── ADRD_Caregiving_Multiple_Choice.json
+│   └── ADRD_Caregiving_True_or_False.json
 ├── ADRD_Unified_QA/
 │   ├── ADRD_Unified.json
 ├── README.md
