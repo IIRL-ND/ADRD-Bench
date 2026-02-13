@@ -1,5 +1,9 @@
 # ADRD-Bench Benchmark
 
+[![arXiv](https://img.shields.io/badge/arXiv-2602.11460-b31b1b.svg)](https://arxiv.org/abs/2602.11460)
+
+Paper: https://arxiv.org/abs/2602.11460
+
 **ADRD-Bench** is a **benchmark specifically designed for Alzheimer’s Disease and Related Dementias (ADRD)** to rigorously evaluate large language models (LLMs) in both **clinical knowledge** and **daily caregiving contexts**.
 
 ---
