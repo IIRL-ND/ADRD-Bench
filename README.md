@@ -60,3 +60,19 @@ ADRD-caring-LLM-benchmark/
 **Project Team**: IIRL-ND  
 
 For questions, collaborations, or access inquiries, please open an issue or contact the authors.
+
+## Citation
+
+If you find ADRD-Bench useful in your research, please cite:
+
+```bibtex
+@misc{zhao2026adrdbenchpreliminaryllmbenchmark,
+      title={ADRD-Bench: A Preliminary LLM Benchmark for Alzheimer's Disease and Related Dementias},
+      author={Guangxin Zhao and Jiahao Zheng and Malaz Boustani and Jarek Nabrzyski and Meng Jiang and Yiyu Shi and Zhi Zheng},
+      year={2026},
+      eprint={2602.11460},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.11460},
+}
+
