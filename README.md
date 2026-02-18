@@ -10,7 +10,7 @@ Paper: https://arxiv.org/abs/2602.11460
 
 ## Overview
 
-ADRD-Care consists of **two complementary components**:
+ADRD-Bench consists of **two complementary components**:
 
 ### ADRD Unified QA
 
@@ -42,7 +42,7 @@ This component helps mitigate the lack of **practical caregiving context** in ex
 ## Repository Structure
 
 ```text
-ADRD-caring-LLM-benchmark/
+ADRD-Bench/
 ├── ADRD_Caregiving_QA/
 │   ├── ADRD_Caregiving_Multiple_Choice.json
 │   └── ADRD_Caregiving_True_or_False.json
@@ -77,6 +77,6 @@ If you find ADRD-Bench useful in your research, please cite:
       eprint={2602.11460},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2602.11460},
+      url={https://arxiv.org/abs/2602.11460}
 }
 
