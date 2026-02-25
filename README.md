@@ -1,8 +1,11 @@
 # ADRD-Bench Benchmark
 
 [![arXiv](https://img.shields.io/badge/arXiv-2602.11460-b31b1b.svg)](https://arxiv.org/abs/2602.11460)
+[![HuggingFace Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow)](https://huggingface.co/datasets/IIRL-NotreDame/ADRD-Bench)
 
 Paper: https://arxiv.org/abs/2602.11460
+
+Dataset: https://huggingface.co/datasets/IIRL-NotreDame/ADRD-Bench
 
 **ADRD-Bench** is a **benchmark specifically designed for Alzheimer’s Disease and Related Dementias (ADRD)** to rigorously evaluate large language models (LLMs) in both **clinical knowledge** and **daily caregiving contexts**.
 
