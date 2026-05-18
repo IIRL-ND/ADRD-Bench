@@ -19,7 +19,7 @@ ADRD-Bench consists of **two complementary components**:
 
 A curated and unified question set synthesized from **seven established medical QA benchmarks**, designed to evaluate LLMs’ **ADRD-related clinical knowledge**.
 
-- **Total questions**: 1,352  
+- **Total questions**: 1，438 
 - **Data access note**: Due to original dataset licensing restrictions, we do **not** redistribute the full question texts. Instead, we provide:
   - the **source dataset name**
   - the **original index** of each question within its source benchmark
