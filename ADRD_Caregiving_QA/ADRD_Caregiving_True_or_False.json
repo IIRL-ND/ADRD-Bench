@@ -191,7 +191,7 @@
     },
     {
       "ID": 39,
-      "Question": "The Caregiver stress prevention bundle includes problem solving skills development to cope with their own emotional and physical stress.",
+      "Question": "The caregiver stress prevention includes problem solving skills development to cope with their own emotional and physical stress.",
       "Answer": "Yes"
     },
     {
@@ -426,7 +426,7 @@
     },
     {
       "ID": 86,
-      "Question": "Dementia care planning includes development and implementation of a caregiver stress prevention bundle.",
+      "Question": "Dementia care planning includes development and implementation of caregiver stress preventions.",
       "Answer": "Yes"
     },
     {
@@ -591,12 +591,12 @@
     },
     {
       "ID": 119,
-      "Question": "The Caregiver stress prevention bundle includes attending a monthly support group with or without their loved one living with dementia.",
+      "Question": "The caregiver stress prevention includes attending a monthly support group with or without their loved one living with dementia.",
       "Answer": "Yes"
     },
     {
       "ID": 120,
-      "Question": "The Caregiver stress prevention bundle includes problem solving skills development to cope with the cognitive, functional, behavioral and psychological disabilities of their loved one living with dementia.",
+      "Question": "The caregiver stress prevention includes problem solving skills development to cope with the cognitive, functional, behavioral and psychological disabilities of their loved one living with dementia.",
       "Answer": "Yes"
     }
   ]
